@@ -2,7 +2,7 @@ name: Java CI with Maven - Build
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master]
   workflow_dispatch:
 
 jobs:
